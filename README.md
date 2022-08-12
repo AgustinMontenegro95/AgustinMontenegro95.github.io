@@ -72,6 +72,3 @@ I consider myself a responsible and orderly person with the ability to adapt to 
 ![Profile views counter](https://komarev.com/ghpvc/?username=AgustinMontenegro95&&style=flat-square)  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
